@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @majaturkalj
 - 👀 I’m interested in web GIS and Python. I am beginner and have no programming or web developing background.  
+- This page is my journey towards web development and programming. 
 
 
 <!---
