@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @majaturkalj
-- 👀 I’m interested in Python, especially Python applications for GIS in the areas of data manipulation and data visualisation. 
-- 🌱 I’m currently learning Python. I have no programming background and at the moment I find it very challenging. 
+- 👀 I’m interested in web GIS and Python. I am beginner and have no programming or web developing background.  
 
 
 <!---
